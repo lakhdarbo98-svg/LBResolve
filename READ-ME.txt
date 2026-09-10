@@ -1,0 +1,29 @@
+LAKHDAR BOUZIDI — VIDEO EDITOR PORTFOLIO
+==========================================
+
+HOW TO OPEN
+- Double-click index.html to preview it in your browser.
+- To publish it for free: drag this whole folder into Netlify Drop
+  (app.netlify.com/drop) or upload it to GitHub Pages / Vercel.
+  Keep the folder structure exactly as-is (index.html + assets/).
+
+YOUR PHOTO
+- Already added: assets/img/profile.jpg — shows in the About section.
+- To swap it later, just replace that file with a new image (keep the same
+  filename, or update the src="" path in index.html under id="about").
+
+EASY EDITS
+- Email address: search for "hello@lakhdarbouzidi.com" and replace with yours.
+- Social links: bottom of the page, in the <footer> — replace the "#" hrefs.
+- Swap any of the 4 portfolio videos: replace files inside assets/video/
+  (keep the same filenames, or update the src="" paths in index.html).
+
+FILE SIZES
+- All 4 videos were compressed for web delivery (~10MB total vs ~450MB
+  originals) so the site loads fast. Quality is preserved for on-screen viewing.
+
+PRO UPGRADE IDEAS (when you're ready)
+- Swap the mailto: button for a real contact form (e.g. Formspree — free tier).
+- Add 2–3 short client testimonials once you have them — don't fake these,
+  real ones convert far better.
+- Custom domain (lakhdarbouzidi.com) once hosted — ties the SaaS look together.
